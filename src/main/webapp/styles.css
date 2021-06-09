@@ -1,0 +1,27 @@
+body {
+    font-family: 'Spectral', serif;
+}
+@media (prefers-color-scheme: dark) {
+    body {
+        background: black;
+        color: white;
+    }
+    a {
+        color: white;
+    }
+}
+header {
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+header nav {
+    flex: 1;
+    display: flex;
+    justify-content: space-evenly   ;
+}
+footer {
+    padding: 50px;
+    text-align: center;
+}

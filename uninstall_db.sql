@@ -1,0 +1,12 @@
+DROP TABLE Parent;
+DROP TABLE Authors;
+DROP TABLE Invite;
+DROP TABLE ChoiceMap;
+DROP TABLE Choice;
+DROP TABLE Story;
+DROP TABLE Paragraph;
+DROP TABLE TalesUser;
+DROP SEQUENCE choiceId;
+DROP SEQUENCE paragraphId;
+DROP SEQUENCE storyId;
+

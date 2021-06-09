@@ -1,0 +1,1 @@
+<footer>&copy; 2021 - Michael GELLENONCOURT, Alexandre JEUNOT-CAIRE, Tanguy POINSON, Guillaume RICARD</footer>

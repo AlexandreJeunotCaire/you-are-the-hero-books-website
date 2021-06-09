@@ -1,0 +1,11 @@
+/home/alex/ensimag/2a/appli_web/livre_heros/acolweb2021/src/main/java/fr/ensimag/tales/model/Choice.java
+/home/alex/ensimag/2a/appli_web/livre_heros/acolweb2021/src/main/java/fr/ensimag/tales/model/Story.java
+/home/alex/ensimag/2a/appli_web/livre_heros/acolweb2021/src/main/java/fr/ensimag/tales/dao/StoryDAO.java
+/home/alex/ensimag/2a/appli_web/livre_heros/acolweb2021/src/main/java/fr/ensimag/tales/HomeServlet.java
+/home/alex/ensimag/2a/appli_web/livre_heros/acolweb2021/src/main/java/fr/ensimag/tales/dao/ChoiceDAO.java
+/home/alex/ensimag/2a/appli_web/livre_heros/acolweb2021/src/main/java/fr/ensimag/tales/model/Paragraph.java
+/home/alex/ensimag/2a/appli_web/livre_heros/acolweb2021/src/main/java/fr/ensimag/tales/StoryServlet.java
+/home/alex/ensimag/2a/appli_web/livre_heros/acolweb2021/src/main/java/fr/ensimag/tales/dao/DAOException.java
+/home/alex/ensimag/2a/appli_web/livre_heros/acolweb2021/src/main/java/fr/ensimag/tales/AuthServlet.java
+/home/alex/ensimag/2a/appli_web/livre_heros/acolweb2021/src/main/java/fr/ensimag/tales/dao/ParagraphDAO.java
+/home/alex/ensimag/2a/appli_web/livre_heros/acolweb2021/src/main/java/fr/ensimag/tales/dao/AbstractDataBaseDAO.java
